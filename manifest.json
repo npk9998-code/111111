@@ -1,0 +1,13 @@
+{
+  "name": "عقارات — بيع وطلب",
+  "short_name": "عقارات",
+  "description": "إدارة عروض البيع وطلبات الشراء مع نظام التطابق الذكي",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080d14",
+  "theme_color": "#080d14",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
